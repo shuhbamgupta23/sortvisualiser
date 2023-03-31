@@ -1,0 +1,28 @@
+
+.array-container {
+  width: 100%;
+  text-align: center;
+  margin: auto;
+}
+
+.array-bar {
+  width: 5px;
+  background-color: turquoise;
+  display: inline-block;
+  margin: 0 5px;
+}
+
+.buttonContainer{
+    width: 100%;
+    text-align: center;
+}
+
+.generateButton{
+    cursor: pointer;
+    border-radius: 999px;
+    border:none;
+    color:white;
+    background-color: rgb(89, 192, 226);
+    padding:15px 35px;
+    margin:10px
+}
